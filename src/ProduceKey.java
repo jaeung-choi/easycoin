@@ -8,7 +8,7 @@ import java.security.spec.ECGenParameterSpec;
 public class ProduceKey {
 
 	public PrivateKey privateKey;
-//	public PublicKey publicKey;
+	public PublicKey publicKey;
 	
 	
 	public PrivateKey getPrivateKey() {
